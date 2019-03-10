@@ -4,7 +4,7 @@
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
-    $subject = "You have a message from Tecmie Web.";
+    $subject = "You have a message from Karis Digital .";
 
     $fields = array();
     $fields{"name"} = "name";
