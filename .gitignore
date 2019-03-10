@@ -1,0 +1,11 @@
+# VESTA AND SERVER RELATED FILES
+
+/cgi-bin
+/document_errors
+/public_shtml
+/logs
+/private
+/old_html
+/requests
+/stRAY
+/html-supraman.tar
