@@ -4,7 +4,7 @@
 
 // set new output using shell_exec
 
-$output = shell_exec('git pull origin master');
+$output = shell_exec('git pull');
 echo "<pre>$output</pre>";
 
 ?>
